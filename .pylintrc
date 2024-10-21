@@ -4,7 +4,7 @@ disable=
       C0114,  # Missing module docstring
       C0115,  # Missing class docstring
       C0116,  # Missing function or method docstring
-      C0304,  # Final newline missing
+      #C0304,  # Final newline missing
       W0703,  # Catching too general exception Exception
       C0209,  # No space allowed before bracket
       E0015,  # Symbol is not defined
