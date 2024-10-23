@@ -8,6 +8,7 @@ disable=
       W0703,  # Catching too general exception Exception
       C0209,  # No space allowed before bracket
       E0015,  # Symbol is not defined
+      W0719,  # broad-exception-raised
 
 # Analyse import fallback blocks. This can be used to support both Python 2 and
 # 3 compatible code, which means that the block might have code that exists
